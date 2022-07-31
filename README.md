@@ -3826,4 +3826,3 @@
 | func_110258_o   | getGrassEatingAmount                     | 1      |
 | func_175586_a   | callFromMainThread                       | 1      |
 | func_148142_b   | renderDecorations                        | 1      |
-+-----------------+------------------------------------------+--------+
